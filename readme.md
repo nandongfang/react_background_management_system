@@ -11,7 +11,7 @@ react@16.0 + redux@3.7.2 + react-router@3.2.0 + webpack@3.10.0 + axios@0.18.0 + 
 ```
 git clone https://github.com/duxianwei520/react.git  
 
-cd react （进入当前的项目）
+cd react_background_management_system （进入当前的项目）
 
 npm install  (安装依赖包)
 
